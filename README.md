@@ -7,7 +7,7 @@ First App with Flutter - Basic Calculator
 2. Open this folder with Android Studio
 3. Connect with your Android device via USB cable or turn on Android Virtual Device in Android Studio
 + Turned on USB Debugging and Install via USB in Developer Options on your Android device
-4. Click `Run > Run 'main.dart'` or `Shift + F10`
+4. Click `Run` > `Run 'main.dart'` or `Shift + F10`
 5. Wait until your application was installed and launched on your device
 
 ## Screenshot
